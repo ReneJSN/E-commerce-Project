@@ -1,0 +1,74 @@
+[
+    {
+        "image": "Images/luffy.jpg",
+        "title": "4th Gear MONKEY D. LUFFY",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "99.99"
+    },
+    {
+        "image": "Images/zoro.jpg",
+        "title": "Roronoa ZORO",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "49.99"
+    },
+    {
+        "image": "Images/sanji.jpg",
+        "title": "vinsmoke SANJI",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "79.99"
+    },
+    {
+        "image": "Images/nami.jpg",
+        "title": "Bellmere NAMI",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "49.99"
+    },
+    {
+        "image": "Images/naruto.jpg",
+        "title": "Naruto Uzumaki Bijuu mode Rasengan",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "999.99"
+    },
+    {
+        "image": "Images/sasuke.jpg",
+        "title": "Sasuke uchiha",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "49.99"
+    },
+    {
+        "image": "Images/ichigo.jpg",
+        "title": "Ichigo Kurosaki Final Getsuga Tensho",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "49.99"
+    },
+    {
+        "image": "Images/guts.jpg",
+        "title": "The Black Swordsman",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "99.99"
+    },
+    {
+        "image": "Images/alucard.jpg",
+        "title": "Alucard",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "99.99"
+    },
+    {
+        "image": "Images/kaneki.jpg",
+        "title": "Ken Kaneki",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "49.99"
+    },
+    {
+        "image": "Images/kirito.webp",
+        "title": "Kirito",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "39.99"
+    },
+    {
+        "image": "Images/spike.jpg",
+        "title": "spike spiegel",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "price": "29.99"
+    }
+]
