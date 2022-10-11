@@ -2,73 +2,73 @@
     {
         "image": "Images/luffy.jpg",
         "title": "4th Gear MONKEY D. LUFFY",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Monkey D. Luffy, also known as Straw Hat Luffy and commonly as Straw Hat, is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as one of its top fighters.",
         "price": "99.99"
     },
     {
         "image": "Images/zoro.jpg",
         "title": "Roronoa ZORO",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Roronoa Zoro is a swordsman and the combatant of the Straw Hat Pirates. Also known as Pirate Hunter Zoro, he is a pirate, former bounty hunter from the anime and manga series One Piece.",
         "price": "49.99"
     },
     {
         "image": "Images/sanji.jpg",
         "title": "vinsmoke SANJI",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "(Black Leg) Sanji, born as Vinsmoke Sanji, is the cook of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fifth member of the crew and the fourth to join",
         "price": "79.99"
     },
     {
         "image": "Images/nami.jpg",
         "title": "Bellmere NAMI",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Nami is a fictional character in the One Piece franchise created by Eiichiro Oda. She is based on Ann and Silk, two characters from Oda's previous manga Romance Dawn. She is introduced as a thief and pickpocket who possesses cartographical, meteorological, and navigational skills.",
         "price": "49.99"
     },
     {
         "image": "Images/naruto.jpg",
         "title": "Naruto Uzumaki Bijuu mode Rasengan",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Naruto Uzumaki is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood.",
         "price": "999.99"
     },
     {
         "image": "Images/sasuke.jpg",
         "title": "Sasuke uchiha",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Sasuke Uchiha is one of the last surviving members of Konohagakure's Uchiha clan. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi.",
         "price": "49.99"
     },
     {
         "image": "Images/ichigo.jpg",
         "title": "Ichigo Kurosaki Final Getsuga Tensho",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Ichigo Kurosaki is the main protagonist of the Bleach franchise. In the original series, he is a teenager with the ability to see spirits who gains the powers of a Shinigami from Rukia Kuchiki. He is a hybrid of Human, Soul Reaper, Quincy, and Hollow.",
         "price": "49.99"
     },
     {
         "image": "Images/guts.jpg",
         "title": "The Black Swordsman",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Guts, renowned as the Black Swordsman, is a former mercenary and branded wanderer who travels the world in a constant internal struggle between pursuing his own ends and upholding his attachments to those dear to him.",
         "price": "99.99"
     },
     {
         "image": "Images/alucard.jpg",
         "title": "Alucard",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Alucard is the main protagonist of Hellsing, serving as the Hellsing Organization's trump card. One of the most powerful vampires in the entire series, Alucard is Count Dracula, who in his past life was Vlad The Impaler Tepes III, before becoming a vampire.",
         "price": "99.99"
     },
     {
         "image": "Images/kaneki.jpg",
         "title": "Ken Kaneki",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": " Kaneki is the first known artificial one-eyed ghoul. His unique half ghoul state is what later inspires the idea of the Quinx. After joining Anteiku as a part-time waiter, he learns how to live as a ghoul and eventually becomes known as Eyepatch (眼帯, Gantai)",
         "price": "49.99"
     },
     {
         "image": "Images/kirito.webp",
         "title": "Kirito",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Kazuto Kirigaya, born Kazuto Narusaka and also known by his avatar name Kirito, is the main protagonist of the light novel/anime/manga franchise Sword Art Online. His avatar name, Kirito, was taken from his real name Kazuto Kirigaya; Kiri-- from Kirigaya and ----to from Kazuto. He was one of the 1,000 beta testers for the Closed Beta of Sword Art Online, the first ever VRMMORPG for the NerveGear Head Gear system.",
         "price": "39.99"
     },
     {
         "image": "Images/spike.jpg",
         "title": "spike spiegel",
-        "description": "lorem ipsum dolor sit amet consectetur adipisicing, elit. Blanditiis, ducimus.",
+        "description": "Spike Spiegel is a bounty hunter on a spaceship called the Bebop and travels through the space with his crew. Before becoming a bounty hunter, Spike was a member of the Red Dragon Crime Syndicate. Spike displayed many talents and abilities, including being skilled in hand-to-hand combat and martial-arts fighting.",
         "price": "29.99"
     }
 ]
